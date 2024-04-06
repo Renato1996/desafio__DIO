@@ -1,2 +1,2 @@
 # desafio__DIO
-Solução para uma empresa que está inciando as ferramentas cloud
+Solução para uma empresa que está dando seus primeiros passos com o Cloud Computing
